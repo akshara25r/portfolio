@@ -13,7 +13,7 @@ function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/send", form);
+      await axios.post("https://portfolio-4zqz.onrender.com/send", form);
       alert("Message sent successfully!");
       setForm({ name: '', email: '', message: '' });
     } catch (err) {
