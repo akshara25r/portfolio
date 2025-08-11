@@ -1,5 +1,3 @@
-<img width="1874" height="903" alt="image" src="https://github.com/user-attachments/assets/e3e26b09-3ffb-4f03-a543-b9d2764251fb" /># 🌟 Personal Portfolio
-
 A modern, responsive personal portfolio website built with **React.js** for the frontend and **Node.js/Express** for the backend.
 This portfolio showcases my **skills**, **projects**, **education**, and **experience**, with a clean UI and smooth animations.
 
