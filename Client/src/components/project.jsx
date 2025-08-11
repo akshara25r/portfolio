@@ -21,6 +21,11 @@ function Projects() {
       description: "A responsive task management tool built with React, featuring CRUD operations, dynamic UI updates, and local storage support for persistent data.",
       link: "https://github.com/akshara25r/sos-game.git",
       src: sosProjectImage
+    },{
+      title: "Portfolio Website",
+      description: "A personal portfolio website showcasing projects, skills, and contact information, built with React and Tailwind CSS for a modern, responsive design.",
+      link: "https://github.com/akshara25r/portfolio.git",
+      src: sosProjectImage
     }
   ];
 
