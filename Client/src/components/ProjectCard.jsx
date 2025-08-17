@@ -6,11 +6,11 @@ function ProjectCard({ name, description, src, link }) {
       <h3 className="text-lg font-semibold text-amber-400 mb-2">{name}</h3>
       
       {/* Project Image */}
-      <img 
+{/*       <img 
         src={src} 
         alt={name} 
         className="rounded-lg mb-4 w-full h-40 object-cover"
-      />
+      /> */}
 
       <p className="text-sm text-gray-200 break-words">{description}</p>
 
