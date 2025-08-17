@@ -11,12 +11,7 @@ const skills = [
 function Skills() {
   return (
     <div id="skills" className="bg-[#05070e] p-20 flex text-white relative">
-      {/* Fixed Vertical Text on the Left */}
-      <div className="absolute left-10 top-1/2 transform -translate-y-1/2 flex flex-col items-center space-y-2 text-3xl font-bold tracking-widest">
-        {'SKILLS'.split('').map((char, index) => (
-          <span key={index}>{char}</span>
-        ))}
-      </div>
+    <h2 className="text-3xl font-bold mb-10 text-center">Skills</h2>
 
       {/* Skill Cards */}
       <div className="flex flex-1 justify-center items-center pl-24">
